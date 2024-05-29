@@ -1,9 +1,3 @@
-# Demo
+# TicTacToe
 
-Some description!
-
-
-## Subheader
-
-
-watch tutorial on youtube!
+Designed for the AP Computer Science Principles Project
